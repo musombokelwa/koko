@@ -1,0 +1,4 @@
+numpy>=1.24,<3
+python-dotenv>=1.0,<2
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.14
